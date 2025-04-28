@@ -11,7 +11,7 @@
     </parent>
 
     <artifactId>artifact-versions-maven-plugin</artifactId>
-    <version>0.1.0-SNAPSHOT</version>
+    <version>0.1.0</version>
     <packaging>maven-plugin</packaging>
     <description>Maven plugin that determines the versions of one or more artifacts in the Maven repository and provides them as properties for further processing</description>
     <url>https://github.com/fuinorg/artifact-versions-maven-plugin/</url>
